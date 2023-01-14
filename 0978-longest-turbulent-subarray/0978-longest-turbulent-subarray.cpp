@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxTurbulenceSize(vector<int> &a, int c1 = 0, int c2 = 0, int i = 0, int co = 1, int max = 0)
-{
+{   //recursive solution using flip flop logic
     if (max < co)
         max = co;
 
