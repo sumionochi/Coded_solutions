@@ -1,2 +1,2 @@
-# Leetcode_solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# Leetcode,GFG,Coding Ninjas(Code Studio),Codechef, Codeforces and some unique questions straight from my vs code.
+Collection of variety yet unique questions I solved to test/hone my skills. 
