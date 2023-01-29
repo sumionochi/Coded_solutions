@@ -10,7 +10,9 @@ public:
                 break;
             }
         }
+        //edge case
         if(toswap==INT_MIN) return reverse(a.begin(),a.end());
+        //just greater element than toswap.
         else{
             for(int i=a.size()-1;i>toswap;i--){
                 if(a[i]>a[toswap]){
